@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Main-Class: mdurasek_zadaca_2.izbornik.Izbornik
+Created-By: Maven Integration for Eclipse
+
